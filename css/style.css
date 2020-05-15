@@ -408,12 +408,10 @@ a {
 	background-color: #f8f9fa;
 	border: 1px solid #e5e5e5;
 }
-
 .aside_post-box .post__box-title {
 	font-size: 18px;
 	line-height: 26px;
 }
-
 .category__items {
 	margin: 0;
 }
@@ -427,7 +425,6 @@ a {
 	border-bottom: 1px solid #c9a96e;
 	cursor: pointer;
 }
-
 .category__items li {
 	border-bottom: 1px solid #e5e5e5;
 }
@@ -544,7 +541,7 @@ a {
 	display: flex;
 	justify-content: flex-end;
 	align-items: center;
-	margin-right: 35px;
+	margin-right: 55px;
 }
 .pagination__items {
 	flex: 0 0 510px;
@@ -553,11 +550,9 @@ a {
 .pagination__item {
 	display: flex;
 	justify-content: space-between;
-	/* display: inline-block; */
 	text-align: center;
 	border: 1px solid #e5e5e5;
 	margin: 42px auto 70px;
-	/* width: 509px; */
 }
 
 .pagination__items a {
