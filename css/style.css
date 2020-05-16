@@ -201,6 +201,10 @@ a {
 	padding-bottom: 14px;
 	margin-bottom: 30px;
 }
+.post-box:hover,
+.post__main:hover {
+	box-shadow: none;
+}
 .post__subject-post:nth-child(even),
 .post__main-post:nth-child(odd) {
 	margin-left: 30px;
