@@ -517,6 +517,13 @@ a {
 .aside__social-link:hover .fab {
 	color: #c9a96e;
 }
+.social-link {
+	fill: #5a5a5a;
+	margin-bottom: 6px;
+}
+.aside__social-link:hover .social-link {
+	fill: #c9a96e;
+}
 .fab {
 	color: #5a5a5a;
 	font-size: 20px;
